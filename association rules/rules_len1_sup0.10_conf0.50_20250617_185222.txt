@@ -1,0 +1,8 @@
+--- Association Rules: Danish Prompt Antecedent => HAS_ENGLISH_WORD_IN_ANSWER ---
+Configuration: MIN_SUPPORT=10.0%, MIN_CONFIDENCE=50.0%, MAX_ANTECEDENT_LEN=1
+Total Rules Found (after filters): 4
+
+Rule: {P_kan} => {HAS_ENGLISH_WORD_IN_ANSWER} (Support: 0.116, Confidence: 0.580, Lift: 1.298, Representativity: 1.000, Leverage: 0.027, Conviction: 1.317, Zhangs_Metric: 0.287, Jaccard: 0.218, Certainty: 0.241, Kulczynski: 0.420)
+Rule: {P_en} => {HAS_ENGLISH_WORD_IN_ANSWER} (Support: 0.233, Confidence: 0.525, Lift: 1.175, Representativity: 1.000, Leverage: 0.035, Conviction: 1.164, Zhangs_Metric: 0.267, Jaccard: 0.354, Certainty: 0.141, Kulczynski: 0.523)
+Rule: {P_i} => {HAS_ENGLISH_WORD_IN_ANSWER} (Support: 0.222, Confidence: 0.506, Lift: 1.133, Representativity: 1.000, Leverage: 0.026, Conviction: 1.120, Zhangs_Metric: 0.209, Jaccard: 0.335, Certainty: 0.107, Kulczynski: 0.502)
+Rule: {P_og} => {HAS_ENGLISH_WORD_IN_ANSWER} (Support: 0.286, Confidence: 0.506, Lift: 1.132, Representativity: 1.000, Leverage: 0.033, Conviction: 1.120, Zhangs_Metric: 0.269, Jaccard: 0.394, Certainty: 0.107, Kulczynski: 0.573)

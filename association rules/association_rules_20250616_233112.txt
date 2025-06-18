@@ -1,0 +1,1011 @@
+ASSOCIATION RULES ANALYSIS - DANISH TO ENGLISH
+============================================================
+Generated: 2025-06-16 23:31:12
+Transactions analyzed: 1,502
+Minimum support: 10.0%
+Minimum confidence: 50.0%
+Maximum antecedent length: 3
+Maximum itemset length: 4
+Rules found: 195
+
+============================================================
+TIMING SUMMARY:
+  - Dictionary loading: 0.79s
+  - Word classification: 0.04s
+  - Transaction processing: 2.87s
+  - Data preparation: 0.08s
+  - FP-Growth algorithm: 871.21s
+  - Rule generation: 12.23s
+  - Rule filtering: 0.23s
+
+============================================================
+
+Rule 1:
+  If word 'hvilket, kan, som' is found
+  Then there's 55.4% probability of English words
+  Support: 10.3% (occurs in 155 transactions)
+----------------------------------------
+Rule 2:
+  If word '3, at, en' is found
+  Then there's 53.2% probability of English words
+  Support: 13.3% (occurs in 200 transactions)
+----------------------------------------
+Rule 3:
+  If word '3, at, som' is found
+  Then there's 53.1% probability of English words
+  Support: 10.7% (occurs in 161 transactions)
+----------------------------------------
+Rule 4:
+  If word '3, en, som' is found
+  Then there's 53.1% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 5:
+  If word 'hvilket, på, som' is found
+  Then there's 53.0% probability of English words
+  Support: 10.7% (occurs in 161 transactions)
+----------------------------------------
+Rule 6:
+  If word '3, at, til' is found
+  Then there's 52.8% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 7:
+  If word 'hvilket, som, til' is found
+  Then there's 52.7% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 8:
+  If word 'at, hvilket, som' is found
+  Then there's 52.7% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 9:
+  If word 'for, hvilket, som' is found
+  Then there's 52.7% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 10:
+  If word 'der, hvilket, som' is found
+  Then there's 52.6% probability of English words
+  Support: 10.6% (occurs in 159 transactions)
+----------------------------------------
+Rule 11:
+  If word '3, som, til' is found
+  Then there's 52.6% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 12:
+  If word '3, en, for' is found
+  Then there's 52.6% probability of English words
+  Support: 12.8% (occurs in 192 transactions)
+----------------------------------------
+Rule 13:
+  If word 'hvilket, i, som' is found
+  Then there's 52.5% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 14:
+  If word 'hvilket, og, som' is found
+  Then there's 52.5% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 15:
+  If word 'en, hvilket, som' is found
+  Then there's 52.5% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 16:
+  If word 'af, hvilket, som' is found
+  Then there's 52.5% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 17:
+  If word '3, en' is found
+  Then there's 52.5% probability of English words
+  Support: 13.8% (occurs in 207 transactions)
+----------------------------------------
+Rule 18:
+  If word '3, af, at' is found
+  Then there's 52.5% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 19:
+  If word '3, for, som' is found
+  Then there's 52.5% probability of English words
+  Support: 10.5% (occurs in 157 transactions)
+----------------------------------------
+Rule 20:
+  If word '3, at, og' is found
+  Then there's 52.5% probability of English words
+  Support: 13.2% (occurs in 199 transactions)
+----------------------------------------
+Rule 21:
+  If word '3, de, en' is found
+  Then there's 52.5% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 22:
+  If word 'er, hvilket, som' is found
+  Then there's 52.4% probability of English words
+  Support: 10.7% (occurs in 161 transactions)
+----------------------------------------
+Rule 23:
+  If word '3, på, som' is found
+  Then there's 52.4% probability of English words
+  Support: 10.1% (occurs in 152 transactions)
+----------------------------------------
+Rule 24:
+  If word '3, at, er' is found
+  Then there's 52.4% probability of English words
+  Support: 13.2% (occurs in 199 transactions)
+----------------------------------------
+Rule 25:
+  If word '3, det, en' is found
+  Then there's 52.4% probability of English words
+  Support: 11.9% (occurs in 178 transactions)
+----------------------------------------
+Rule 26:
+  If word '3, at' is found
+  Then there's 52.3% probability of English words
+  Support: 13.5% (occurs in 203 transactions)
+----------------------------------------
+Rule 27:
+  If word '3, og, som' is found
+  Then there's 52.3% probability of English words
+  Support: 10.8% (occurs in 162 transactions)
+----------------------------------------
+Rule 28:
+  If word '3, en, er' is found
+  Then there's 52.2% probability of English words
+  Support: 13.3% (occurs in 200 transactions)
+----------------------------------------
+Rule 29:
+  If word 'hvilket, som' is found
+  Then there's 52.2% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 30:
+  If word '3, de, for' is found
+  Then there's 52.2% probability of English words
+  Support: 10.3% (occurs in 154 transactions)
+----------------------------------------
+Rule 31:
+  If word '3, for, til' is found
+  Then there's 52.2% probability of English words
+  Support: 12.6% (occurs in 190 transactions)
+----------------------------------------
+Rule 32:
+  If word '3, en, på' is found
+  Then there's 52.2% probability of English words
+  Support: 12.6% (occurs in 190 transactions)
+----------------------------------------
+Rule 33:
+  If word '3, at, de' is found
+  Then there's 52.2% probability of English words
+  Support: 10.5% (occurs in 157 transactions)
+----------------------------------------
+Rule 34:
+  If word '2, 3, at' is found
+  Then there's 52.1% probability of English words
+  Support: 13.2% (occurs in 198 transactions)
+----------------------------------------
+Rule 35:
+  If word '3, at, der' is found
+  Then there's 52.1% probability of English words
+  Support: 12.6% (occurs in 189 transactions)
+----------------------------------------
+Rule 36:
+  If word '2, 3, en' is found
+  Then there's 52.1% probability of English words
+  Support: 13.4% (occurs in 202 transactions)
+----------------------------------------
+Rule 37:
+  If word '3, på' is found
+  Then there's 52.0% probability of English words
+  Support: 12.8% (occurs in 192 transactions)
+----------------------------------------
+Rule 38:
+  If word '3, at, i' is found
+  Then there's 52.0% probability of English words
+  Support: 13.0% (occurs in 195 transactions)
+----------------------------------------
+Rule 39:
+  If word '1, 3, at' is found
+  Then there's 52.0% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 40:
+  If word '3, at, på' is found
+  Then there's 51.9% probability of English words
+  Support: 12.5% (occurs in 187 transactions)
+----------------------------------------
+Rule 41:
+  If word '1, 3, en' is found
+  Then there's 51.9% probability of English words
+  Support: 13.4% (occurs in 201 transactions)
+----------------------------------------
+Rule 42:
+  If word '3, i, som' is found
+  Then there's 51.9% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 43:
+  If word '3, at, for' is found
+  Then there's 51.9% probability of English words
+  Support: 12.8% (occurs in 193 transactions)
+----------------------------------------
+Rule 44:
+  If word 'det, hvilket, som' is found
+  Then there's 51.9% probability of English words
+  Support: 10.2% (occurs in 153 transactions)
+----------------------------------------
+Rule 45:
+  If word '3, som' is found
+  Then there's 51.9% probability of English words
+  Support: 11.1% (occurs in 167 transactions)
+----------------------------------------
+Rule 46:
+  If word '3, for, på' is found
+  Then there's 51.9% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 47:
+  If word 'de, over, som' is found
+  Then there's 51.8% probability of English words
+  Support: 10.8% (occurs in 162 transactions)
+----------------------------------------
+Rule 48:
+  If word '3, er, til' is found
+  Then there's 51.7% probability of English words
+  Support: 13.0% (occurs in 195 transactions)
+----------------------------------------
+Rule 49:
+  If word '3, en, og' is found
+  Then there's 51.7% probability of English words
+  Support: 13.2% (occurs in 198 transactions)
+----------------------------------------
+Rule 50:
+  If word '3, til' is found
+  Then there's 51.7% probability of English words
+  Support: 13.2% (occurs in 199 transactions)
+----------------------------------------
+Rule 51:
+  If word '3, en, i' is found
+  Then there's 51.7% probability of English words
+  Support: 13.2% (occurs in 199 transactions)
+----------------------------------------
+Rule 52:
+  If word '3, er, på' is found
+  Then there's 51.7% probability of English words
+  Support: 12.3% (occurs in 185 transactions)
+----------------------------------------
+Rule 53:
+  If word '3, af, for' is found
+  Then there's 51.6% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 54:
+  If word '3, der, en' is found
+  Then there's 51.6% probability of English words
+  Support: 12.6% (occurs in 189 transactions)
+----------------------------------------
+Rule 55:
+  If word '3, for, og' is found
+  Then there's 51.6% probability of English words
+  Support: 12.6% (occurs in 190 transactions)
+----------------------------------------
+Rule 56:
+  If word 'for, over, som' is found
+  Then there's 51.6% probability of English words
+  Support: 11.9% (occurs in 179 transactions)
+----------------------------------------
+Rule 57:
+  If word '3, og, til' is found
+  Then there's 51.6% probability of English words
+  Support: 13.0% (occurs in 196 transactions)
+----------------------------------------
+Rule 58:
+  If word '3, en, til' is found
+  Then there's 51.6% probability of English words
+  Support: 13.0% (occurs in 196 transactions)
+----------------------------------------
+Rule 59:
+  If word '3, en, med' is found
+  Then there's 51.5% probability of English words
+  Support: 12.2% (occurs in 183 transactions)
+----------------------------------------
+Rule 60:
+  If word '3, de, på' is found
+  Then there's 51.5% probability of English words
+  Support: 10.1% (occurs in 152 transactions)
+----------------------------------------
+Rule 61:
+  If word '2, 3, på' is found
+  Then there's 51.5% probability of English words
+  Support: 12.5% (occurs in 187 transactions)
+----------------------------------------
+Rule 62:
+  If word '3, de, til' is found
+  Then there's 51.5% probability of English words
+  Support: 10.3% (occurs in 154 transactions)
+----------------------------------------
+Rule 63:
+  If word '3, at, kan' is found
+  Then there's 51.5% probability of English words
+  Support: 11.5% (occurs in 173 transactions)
+----------------------------------------
+Rule 64:
+  If word '3, de, og' is found
+  Then there's 51.5% probability of English words
+  Support: 10.5% (occurs in 157 transactions)
+----------------------------------------
+Rule 65:
+  If word '3, af, som' is found
+  Then there's 51.5% probability of English words
+  Support: 10.5% (occurs in 158 transactions)
+----------------------------------------
+Rule 66:
+  If word '3, for' is found
+  Then there's 51.5% probability of English words
+  Support: 13.0% (occurs in 195 transactions)
+----------------------------------------
+Rule 67:
+  If word '2, 3, som' is found
+  Then there's 51.4% probability of English words
+  Support: 10.8% (occurs in 162 transactions)
+----------------------------------------
+Rule 68:
+  If word '3, at, den' is found
+  Then there's 51.4% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 69:
+  If word '3, af, på' is found
+  Then there's 51.4% probability of English words
+  Support: 12.3% (occurs in 184 transactions)
+----------------------------------------
+Rule 70:
+  If word '1, 3, på' is found
+  Then there's 51.4% probability of English words
+  Support: 12.4% (occurs in 186 transactions)
+----------------------------------------
+Rule 71:
+  If word '3, er, for' is found
+  Then there's 51.3% probability of English words
+  Support: 12.7% (occurs in 191 transactions)
+----------------------------------------
+Rule 72:
+  If word '2, 3, for' is found
+  Then there's 51.3% probability of English words
+  Support: 12.7% (occurs in 191 transactions)
+----------------------------------------
+Rule 73:
+  If word '3, der, på' is found
+  Then there's 51.3% probability of English words
+  Support: 11.7% (occurs in 176 transactions)
+----------------------------------------
+Rule 74:
+  If word '3, af, en' is found
+  Then there's 51.3% probability of English words
+  Support: 13.0% (occurs in 196 transactions)
+----------------------------------------
+Rule 75:
+  If word '3, den, på' is found
+  Then there's 51.3% probability of English words
+  Support: 10.5% (occurs in 157 transactions)
+----------------------------------------
+Rule 76:
+  If word '3, er, som' is found
+  Then there's 51.3% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 77:
+  If word '1, 3, som' is found
+  Then there's 51.3% probability of English words
+  Support: 10.7% (occurs in 161 transactions)
+----------------------------------------
+Rule 78:
+  If word 'de, for, over' is found
+  Then there's 51.3% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 79:
+  If word '3, på, til' is found
+  Then there's 51.3% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 80:
+  If word '3, og, på' is found
+  Then there's 51.3% probability of English words
+  Support: 12.3% (occurs in 184 transactions)
+----------------------------------------
+Rule 81:
+  If word '3, i, på' is found
+  Then there's 51.2% probability of English words
+  Support: 12.3% (occurs in 185 transactions)
+----------------------------------------
+Rule 82:
+  If word '3, der, til' is found
+  Then there's 51.2% probability of English words
+  Support: 12.4% (occurs in 186 transactions)
+----------------------------------------
+Rule 83:
+  If word '3, der, og' is found
+  Then there's 51.2% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 84:
+  If word '1, 3, for' is found
+  Then there's 51.2% probability of English words
+  Support: 12.6% (occurs in 190 transactions)
+----------------------------------------
+Rule 85:
+  If word '2, 3, til' is found
+  Then there's 51.2% probability of English words
+  Support: 12.9% (occurs in 194 transactions)
+----------------------------------------
+Rule 86:
+  If word 'de, disse, som' is found
+  Then there's 51.2% probability of English words
+  Support: 11.5% (occurs in 173 transactions)
+----------------------------------------
+Rule 87:
+  If word '3, der, for' is found
+  Then there's 51.1% probability of English words
+  Support: 12.1% (occurs in 181 transactions)
+----------------------------------------
+Rule 88:
+  If word '3, den, for' is found
+  Then there's 51.1% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 89:
+  If word '3, for, i' is found
+  Then there's 51.1% probability of English words
+  Support: 12.5% (occurs in 187 transactions)
+----------------------------------------
+Rule 90:
+  If word 'at, de, over' is found
+  Then there's 51.1% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 91:
+  If word '3, for, kan' is found
+  Then there's 51.1% probability of English words
+  Support: 11.2% (occurs in 168 transactions)
+----------------------------------------
+Rule 92:
+  If word '3, den, en' is found
+  Then there's 51.1% probability of English words
+  Support: 11.2% (occurs in 168 transactions)
+----------------------------------------
+Rule 93:
+  If word '1, 3, til' is found
+  Then there's 51.1% probability of English words
+  Support: 12.8% (occurs in 193 transactions)
+----------------------------------------
+Rule 94:
+  If word '3, det, til' is found
+  Then there's 51.1% probability of English words
+  Support: 11.3% (occurs in 169 transactions)
+----------------------------------------
+Rule 95:
+  If word '3, er, kan' is found
+  Then there's 51.0% probability of English words
+  Support: 11.5% (occurs in 172 transactions)
+----------------------------------------
+Rule 96:
+  If word '3, er, og' is found
+  Then there's 51.0% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 97:
+  If word '3, og' is found
+  Then there's 51.0% probability of English words
+  Support: 13.4% (occurs in 201 transactions)
+----------------------------------------
+Rule 98:
+  If word 'de, med, over' is found
+  Then there's 51.0% probability of English words
+  Support: 11.9% (occurs in 179 transactions)
+----------------------------------------
+Rule 99:
+  If word 'over, på, som' is found
+  Then there's 51.0% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 100:
+  If word 'de, over, på' is found
+  Then there's 51.0% probability of English words
+  Support: 12.3% (occurs in 185 transactions)
+----------------------------------------
+Rule 101:
+  If word 'de, hvilket, kan' is found
+  Then there's 51.0% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 102:
+  If word '3, af, til' is found
+  Then there's 50.9% probability of English words
+  Support: 12.8% (occurs in 192 transactions)
+----------------------------------------
+Rule 103:
+  If word '3, det, på' is found
+  Then there's 50.9% probability of English words
+  Support: 11.0% (occurs in 165 transactions)
+----------------------------------------
+Rule 104:
+  If word '3, i, til' is found
+  Then there's 50.9% probability of English words
+  Support: 12.8% (occurs in 193 transactions)
+----------------------------------------
+Rule 105:
+  If word '3, der, som' is found
+  Then there's 50.8% probability of English words
+  Support: 10.1% (occurs in 152 transactions)
+----------------------------------------
+Rule 106:
+  If word 'at, over, som' is found
+  Then there's 50.8% probability of English words
+  Support: 12.2% (occurs in 183 transactions)
+----------------------------------------
+Rule 107:
+  If word '3, de' is found
+  Then there's 50.8% probability of English words
+  Support: 10.7% (occurs in 160 transactions)
+----------------------------------------
+Rule 108:
+  If word '3, den, til' is found
+  Then there's 50.8% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 109:
+  If word '1, at, en' is found
+  Then there's 50.8% probability of English words
+  Support: 13.3% (occurs in 200 transactions)
+----------------------------------------
+Rule 110:
+  If word '3, en, kan' is found
+  Then there's 50.7% probability of English words
+  Support: 11.5% (occurs in 172 transactions)
+----------------------------------------
+Rule 111:
+  If word '3, kan' is found
+  Then there's 50.7% probability of English words
+  Support: 11.5% (occurs in 173 transactions)
+----------------------------------------
+Rule 112:
+  If word '3, at, det' is found
+  Then there's 50.7% probability of English words
+  Support: 11.5% (occurs in 173 transactions)
+----------------------------------------
+Rule 113:
+  If word 'hvilket, i, kan' is found
+  Then there's 50.7% probability of English words
+  Support: 11.7% (occurs in 175 transactions)
+----------------------------------------
+Rule 114:
+  If word '3, med, til' is found
+  Then there's 50.7% probability of English words
+  Support: 11.7% (occurs in 176 transactions)
+----------------------------------------
+Rule 115:
+  If word '3, af, der' is found
+  Then there's 50.7% probability of English words
+  Support: 12.4% (occurs in 186 transactions)
+----------------------------------------
+Rule 116:
+  If word 'de, og, over' is found
+  Then there's 50.7% probability of English words
+  Support: 12.5% (occurs in 187 transactions)
+----------------------------------------
+Rule 117:
+  If word 'de, over' is found
+  Then there's 50.7% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 118:
+  If word 'de, i, over' is found
+  Then there's 50.7% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 119:
+  If word '3, i, og' is found
+  Then there's 50.7% probability of English words
+  Support: 12.9% (occurs in 194 transactions)
+----------------------------------------
+Rule 120:
+  If word '3, af, og' is found
+  Then there's 50.6% probability of English words
+  Support: 13.0% (occurs in 195 transactions)
+----------------------------------------
+Rule 121:
+  If word '1, at, som' is found
+  Then there's 50.6% probability of English words
+  Support: 10.5% (occurs in 158 transactions)
+----------------------------------------
+Rule 122:
+  If word '1, en, som' is found
+  Then there's 50.6% probability of English words
+  Support: 10.9% (occurs in 163 transactions)
+----------------------------------------
+Rule 123:
+  If word 'for, over, på' is found
+  Then there's 50.6% probability of English words
+  Support: 13.6% (occurs in 205 transactions)
+----------------------------------------
+Rule 124:
+  If word 'de, den, over' is found
+  Then there's 50.6% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 125:
+  If word '2, 3, kan' is found
+  Then there's 50.6% probability of English words
+  Support: 11.4% (occurs in 171 transactions)
+----------------------------------------
+Rule 126:
+  If word 'med, over, som' is found
+  Then there's 50.6% probability of English words
+  Support: 11.6% (occurs in 174 transactions)
+----------------------------------------
+Rule 127:
+  If word 'for, hvilket, kan' is found
+  Then there's 50.6% probability of English words
+  Support: 11.7% (occurs in 175 transactions)
+----------------------------------------
+Rule 128:
+  If word '3, for, med' is found
+  Then there's 50.6% probability of English words
+  Support: 11.8% (occurs in 177 transactions)
+----------------------------------------
+Rule 129:
+  If word '3, at, med' is found
+  Then there's 50.6% probability of English words
+  Support: 12.0% (occurs in 180 transactions)
+----------------------------------------
+Rule 130:
+  If word 'de, over, til' is found
+  Then there's 50.6% probability of English words
+  Support: 12.2% (occurs in 183 transactions)
+----------------------------------------
+Rule 131:
+  If word '2, 3, og' is found
+  Then there's 50.5% probability of English words
+  Support: 13.0% (occurs in 196 transactions)
+----------------------------------------
+Rule 132:
+  If word '3, de, er' is found
+  Then there's 50.5% probability of English words
+  Support: 10.3% (occurs in 155 transactions)
+----------------------------------------
+Rule 133:
+  If word '1, en' is found
+  Then there's 50.5% probability of English words
+  Support: 13.9% (occurs in 209 transactions)
+----------------------------------------
+Rule 134:
+  If word '3, der, kan' is found
+  Then there's 50.5% probability of English words
+  Support: 10.8% (occurs in 162 transactions)
+----------------------------------------
+Rule 135:
+  If word '3, kan, til' is found
+  Then there's 50.4% probability of English words
+  Support: 11.3% (occurs in 169 transactions)
+----------------------------------------
+Rule 136:
+  If word '3, kan, og' is found
+  Then there's 50.4% probability of English words
+  Support: 11.3% (occurs in 170 transactions)
+----------------------------------------
+Rule 137:
+  If word '1, 3, kan' is found
+  Then there's 50.4% probability of English words
+  Support: 11.3% (occurs in 170 transactions)
+----------------------------------------
+Rule 138:
+  If word '3, det, og' is found
+  Then there's 50.4% probability of English words
+  Support: 11.4% (occurs in 171 transactions)
+----------------------------------------
+Rule 139:
+  If word '3, af, kan' is found
+  Then there's 50.4% probability of English words
+  Support: 11.4% (occurs in 171 transactions)
+----------------------------------------
+Rule 140:
+  If word '3, med, på' is found
+  Then there's 50.4% probability of English words
+  Support: 11.5% (occurs in 173 transactions)
+----------------------------------------
+Rule 141:
+  If word 'de, der, over' is found
+  Then there's 50.4% probability of English words
+  Support: 11.7% (occurs in 176 transactions)
+----------------------------------------
+Rule 142:
+  If word 'eller, som, ved' is found
+  Then there's 50.4% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 143:
+  If word 'disse, på, som' is found
+  Then there's 50.4% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 144:
+  If word 'disse, for, som' is found
+  Then there's 50.4% probability of English words
+  Support: 12.5% (occurs in 188 transactions)
+----------------------------------------
+Rule 145:
+  If word '1, 3, og' is found
+  Then there's 50.4% probability of English words
+  Support: 13.0% (occurs in 195 transactions)
+----------------------------------------
+Rule 146:
+  If word 'at, for, over' is found
+  Then there's 50.4% probability of English words
+  Support: 13.9% (occurs in 209 transactions)
+----------------------------------------
+Rule 147:
+  If word '2, 3, de' is found
+  Then there's 50.3% probability of English words
+  Support: 10.4% (occurs in 156 transactions)
+----------------------------------------
+Rule 148:
+  If word '3, af, de' is found
+  Then there's 50.3% probability of English words
+  Support: 10.5% (occurs in 157 transactions)
+----------------------------------------
+Rule 149:
+  If word '3, kan, på' is found
+  Then there's 50.3% probability of English words
+  Support: 10.8% (occurs in 162 transactions)
+----------------------------------------
+Rule 150:
+  If word 'fra, som, ved' is found
+  Then there's 50.3% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 151:
+  If word 'hvilket, kan, på' is found
+  Then there's 50.3% probability of English words
+  Support: 11.3% (occurs in 169 transactions)
+----------------------------------------
+Rule 152:
+  If word '3, den' is found
+  Then there's 50.3% probability of English words
+  Support: 11.4% (occurs in 171 transactions)
+----------------------------------------
+Rule 153:
+  If word 'der, over, som' is found
+  Then there's 50.3% probability of English words
+  Support: 11.7% (occurs in 175 transactions)
+----------------------------------------
+Rule 154:
+  If word 'over, som, til' is found
+  Then there's 50.3% probability of English words
+  Support: 11.9% (occurs in 179 transactions)
+----------------------------------------
+Rule 155:
+  If word 'af, de, over' is found
+  Then there's 50.3% probability of English words
+  Support: 12.3% (occurs in 184 transactions)
+----------------------------------------
+Rule 156:
+  If word 'disse, er, som' is found
+  Then there's 50.3% probability of English words
+  Support: 12.7% (occurs in 191 transactions)
+----------------------------------------
+Rule 157:
+  If word '1, en, for' is found
+  Then there's 50.3% probability of English words
+  Support: 12.8% (occurs in 193 transactions)
+----------------------------------------
+Rule 158:
+  If word 'for, med, over' is found
+  Then there's 50.3% probability of English words
+  Support: 13.0% (occurs in 196 transactions)
+----------------------------------------
+Rule 159:
+  If word 'for, over' is found
+  Then there's 50.2% probability of English words
+  Support: 14.0% (occurs in 210 transactions)
+----------------------------------------
+Rule 160:
+  If word 'deres, men, som' is found
+  Then there's 50.2% probability of English words
+  Support: 10.1% (occurs in 152 transactions)
+----------------------------------------
+Rule 161:
+  If word '3, de, i' is found
+  Then there's 50.2% probability of English words
+  Support: 10.3% (occurs in 154 transactions)
+----------------------------------------
+Rule 162:
+  If word '1, 3, de' is found
+  Then there's 50.2% probability of English words
+  Support: 10.3% (occurs in 155 transactions)
+----------------------------------------
+Rule 163:
+  If word '1, for, som' is found
+  Then there's 50.2% probability of English words
+  Support: 10.4% (occurs in 156 transactions)
+----------------------------------------
+Rule 164:
+  If word '3, den, og' is found
+  Then there's 50.2% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 165:
+  If word 'hvilket, kan, til' is found
+  Then there's 50.1% probability of English words
+  Support: 11.6% (occurs in 174 transactions)
+----------------------------------------
+Rule 166:
+  If word 'af, hvilket, kan' is found
+  Then there's 50.1% probability of English words
+  Support: 11.7% (occurs in 175 transactions)
+----------------------------------------
+Rule 167:
+  If word '3, med, og' is found
+  Then there's 50.1% probability of English words
+  Support: 11.9% (occurs in 179 transactions)
+----------------------------------------
+Rule 168:
+  If word 'den, for, over' is found
+  Then there's 50.1% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 169:
+  If word 'i, over, som' is found
+  Then there's 50.1% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 170:
+  If word 'de, en, over' is found
+  Then there's 50.1% probability of English words
+  Support: 12.2% (occurs in 183 transactions)
+----------------------------------------
+Rule 171:
+  If word '1, en, på' is found
+  Then there's 50.1% probability of English words
+  Support: 12.8% (occurs in 192 transactions)
+----------------------------------------
+Rule 172:
+  If word '1, at, til' is found
+  Then there's 50.1% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 173:
+  If word '1, af, at' is found
+  Then there's 50.1% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 174:
+  If word 'for, over, til' is found
+  Then there's 50.1% probability of English words
+  Support: 13.5% (occurs in 203 transactions)
+----------------------------------------
+Rule 175:
+  If word 'for, i, over' is found
+  Then there's 50.1% probability of English words
+  Support: 13.8% (occurs in 208 transactions)
+----------------------------------------
+Rule 176:
+  If word 'at, over, på' is found
+  Then there's 50.0% probability of English words
+  Support: 14.1% (occurs in 212 transactions)
+----------------------------------------
+Rule 177:
+  If word '2, at, til' is found
+  Then there's 50.0% probability of English words
+  Support: 13.8% (occurs in 207 transactions)
+----------------------------------------
+Rule 178:
+  If word '1, en, er' is found
+  Then there's 50.0% probability of English words
+  Support: 13.4% (occurs in 201 transactions)
+----------------------------------------
+Rule 179:
+  If word 'der, for, over' is found
+  Then there's 50.0% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 180:
+  If word 'de, disse, er' is found
+  Then there's 50.0% probability of English words
+  Support: 13.1% (occurs in 197 transactions)
+----------------------------------------
+Rule 181:
+  If word 'disse, en, som' is found
+  Then there's 50.0% probability of English words
+  Support: 12.7% (occurs in 191 transactions)
+----------------------------------------
+Rule 182:
+  If word 'at, disse, som' is found
+  Then there's 50.0% probability of English words
+  Support: 12.6% (occurs in 189 transactions)
+----------------------------------------
+Rule 183:
+  If word 'over, som' is found
+  Then there's 50.0% probability of English words
+  Support: 12.2% (occurs in 183 transactions)
+----------------------------------------
+Rule 184:
+  If word 'og, over, som' is found
+  Then there's 50.0% probability of English words
+  Support: 12.1% (occurs in 182 transactions)
+----------------------------------------
+Rule 185:
+  If word 'af, over, som' is found
+  Then there's 50.0% probability of English words
+  Support: 12.0% (occurs in 180 transactions)
+----------------------------------------
+Rule 186:
+  If word '1, det, en' is found
+  Then there's 50.0% probability of English words
+  Support: 11.9% (occurs in 179 transactions)
+----------------------------------------
+Rule 187:
+  If word '2, som, til' is found
+  Then there's 50.0% probability of English words
+  Support: 11.2% (occurs in 168 transactions)
+----------------------------------------
+Rule 188:
+  If word '2, at, som' is found
+  Then there's 50.0% probability of English words
+  Support: 11.2% (occurs in 168 transactions)
+----------------------------------------
+Rule 189:
+  If word '3, i, kan' is found
+  Then there's 50.0% probability of English words
+  Support: 11.2% (occurs in 168 transactions)
+----------------------------------------
+Rule 190:
+  If word '3, den, i' is found
+  Then there's 50.0% probability of English words
+  Support: 11.1% (occurs in 166 transactions)
+----------------------------------------
+Rule 191:
+  If word '3, et, på' is found
+  Then there's 50.0% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 192:
+  If word 'den, disse, som' is found
+  Then there's 50.0% probability of English words
+  Support: 10.9% (occurs in 164 transactions)
+----------------------------------------
+Rule 193:
+  If word '1, de, en' is found
+  Then there's 50.0% probability of English words
+  Support: 10.7% (occurs in 161 transactions)
+----------------------------------------
+Rule 194:
+  If word 'den, over, som' is found
+  Then there's 50.0% probability of English words
+  Support: 10.6% (occurs in 159 transactions)
+----------------------------------------
+Rule 195:
+  If word '1, som, til' is found
+  Then there's 50.0% probability of English words
+  Support: 10.5% (occurs in 158 transactions)
+----------------------------------------
+
+============================================================
+SUMMARY OF TOP 10 RULES:
+============================================================
+ 1. hvilket, kan, som - Confidence: 55.4%, Support: 10.3%
+ 2. 3, at, en       - Confidence: 53.2%, Support: 13.3%
+ 3. 3, at, som      - Confidence: 53.1%, Support: 10.7%
+ 4. 3, en, som      - Confidence: 53.1%, Support: 10.9%
+ 5. hvilket, på, som - Confidence: 53.0%, Support: 10.7%
+ 6. 3, at, til      - Confidence: 52.8%, Support: 13.1%
+ 7. hvilket, som, til - Confidence: 52.7%, Support: 10.9%
+ 8. at, hvilket, som - Confidence: 52.7%, Support: 11.0%
+ 9. for, hvilket, som - Confidence: 52.7%, Support: 11.0%
+10. der, hvilket, som - Confidence: 52.6%, Support: 10.6%
